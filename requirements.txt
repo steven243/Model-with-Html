@@ -1,8 +1,11 @@
 Werkzeug
-Flask
+Flask==0.12.2
+Flask-Bootstrap==3.3.7.1
+pyknow==1.7.0
 numpy
 Keras
 gevent
 pillow
 h5py
 tensorflow
+gunicorn
